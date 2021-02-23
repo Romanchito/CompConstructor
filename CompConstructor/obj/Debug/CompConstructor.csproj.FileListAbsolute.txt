@@ -1,0 +1,17 @@
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\bin\Debug\CompConstructor.exe.config
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\bin\Debug\CompConstructor.exe
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\bin\Debug\CompConstructor.pdb
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.csprojAssemblyReference.cache
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\Views\CaseList.g.cs
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\App.g.cs
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor_MarkupCompile.cache
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor_MarkupCompile.lref
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\Views\CaseList.baml
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.g.resources
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.Properties.Resources.resources
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.csproj.GenerateResource.cache
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.csproj.CoreCompileInputs.cache
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.exe
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\CompConstructor.pdb
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\Views\Assembly.g.cs
+C:\Users\rstsa\source\repos\CompConstructor\CompConstructor\obj\Debug\Views\Assembly.baml
